@@ -2,4 +2,4 @@
 just another repositiry 
 
 # hello humans
-Dany kurniawan kusumah mananjemen informatika Diploma tiga 
+Dany kurniawan kusumah mananjemen informatika
